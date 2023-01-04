@@ -1,0 +1,2 @@
+https://martinfowler.com/articles/richardsonMaturityModel.html
+
